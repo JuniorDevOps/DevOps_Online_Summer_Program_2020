@@ -1,0 +1,15 @@
+e2b54fc HEAD@{0}: merge develop: Fast-forward
+ec882c9 HEAD@{1}: checkout: moving from develop to master
+e2b54fc HEAD@{2}: merge styles: Fast-forward
+82d6643 HEAD@{3}: merge images: Fast-forward
+6c97a4b HEAD@{4}: checkout: moving from styles to develop
+e2b54fc HEAD@{5}: checkout: moving from develop to styles
+6c97a4b HEAD@{6}: checkout: moving from styles to develop
+e2b54fc HEAD@{7}: commit: Added styles to the website
+82d6643 HEAD@{8}: checkout: moving from images to styles
+82d6643 HEAD@{9}: commit: Added links to the images into index.html
+a28b0e6 HEAD@{10}: commit: Added images to the website
+6c97a4b HEAD@{11}: checkout: moving from develop to images
+6c97a4b HEAD@{12}: commit: Added index.html file
+ec882c9 HEAD@{13}: checkout: moving from master to develop
+ec882c9 HEAD@{14}: commit (initial): init
